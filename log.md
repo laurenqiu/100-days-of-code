@@ -11,4 +11,14 @@ After that, I wonder around the Array 101 (which uses Java as an example) and al
 
 TODO: For the Python webinar, I haven't put what the teacher have taught into practice yet. I will put it into practice at a later date, so this is another thing in my TODO list besides the more imperative final project. 
 
+### Day 1: June 17, 2024 
+
+**Today's Progress**: Completed the final project for my Python starter course, got the certificate. 
+
+**Thoughts:** I feel immersed when doing the project, but I need to improve on that more when I can. I also want to create the blinking effect but don't know how yet. Creating the project is also like linking all those that I previously have learnt together. 
+I spent a lot of time finding the matching color, and care much about how the project look like. I think maybe I can learn more about design? But I'm not sure about that. Maybe get all the programming basics first. 
+
+
+
+
 
