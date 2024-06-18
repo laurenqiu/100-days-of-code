@@ -18,7 +18,12 @@ TODO: For the Python webinar, I haven't put what the teacher have taught into pr
 **Thoughts:** I feel immersed when doing the project, but I need to improve on that more when I can. I also want to create the blinking effect but don't know how yet. Creating the project is also like linking all those that I previously have learnt together. 
 I spent a lot of time finding the matching color, and care much about how the project look like. I think maybe I can learn more about design? But I'm not sure about that. Maybe get all the programming basics first. 
 
+### Day 2: June 18, 2024 
 
+**Today's Progress**: Completed two courses, one on Git and one on Python, one hour each. The follow-up step is to do some practice or create new projects to consolidate the concepts learned. 
+
+**Thoughts:** It's hard to stick to something especially when unexpected things in life is happening. But I need to stay on the habit and keep coding, or if not, keep learning coding. 
+I hope that I can soon find job opportunity to leave my current environment. Hopefully I can rebuild some projects or earn more certificates to prove my front end skills, which is acquire a year ago. But up until now all the jobs I've seen require a relevant degree or 1 year plus relevant experience. 
 
 
 
