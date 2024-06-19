@@ -25,5 +25,8 @@ I spent a lot of time finding the matching color, and care much about how the pr
 **Thoughts:** It's hard to stick to something especially when unexpected things in life is happening. But I need to stay on the habit and keep coding, or if not, keep learning coding. 
 I hope that I can soon find job opportunity to leave my current environment. Hopefully I can rebuild some projects or earn more certificates to prove my front end skills, which is acquire a year ago. But up until now all the jobs I've seen require a relevant degree or 1 year plus relevant experience. 
 
+### Day 3: June 19, 2024 
+
+**Today's Progress**: Read about how the Internet work and how the web web work.
 
 
