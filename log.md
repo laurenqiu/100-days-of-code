@@ -29,4 +29,10 @@ I hope that I can soon find job opportunity to leave my current environment. Hop
 
 **Today's Progress**: Read about how the Internet work and how the web web work.
 
+### Day 4: June 21, 2024
 
+**Today's Progress**: Downloaded GitHub repo to my end and edited it in VSCode. After that, push the edited file to GitHub. I also learned how to clone my private repo.
+
+Asides from that, I did a little bit of web development related reading. 
+
+**Thoughts**: I haven't done a lot this day and procrastinated a lot, as I've already miss two days streak and are under the pressure of meeting one of the requirements of the 100 days of code, which is spending at least one hour per day in coding. May be I should adjust my strategy to code or learn about a code for a least 10 minutes everyday, as the original plan may be more difficult to stick to, with unexpected things happen in life. By doing at least a bit every day, it's easier to have consistency.
