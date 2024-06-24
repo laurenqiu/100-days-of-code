@@ -36,3 +36,16 @@ I hope that I can soon find job opportunity to leave my current environment. Hop
 Asides from that, I did a little bit of web development related reading. 
 
 **Thoughts**: I haven't done a lot this day and procrastinated a lot, as I've already miss two days streak and are under the pressure of meeting one of the requirements of the 100 days of code, which is spending at least one hour per day in coding. May be I should adjust my strategy to code or learn about a code for a least 10 minutes everyday, as the original plan may be more difficult to stick to, with unexpected things happen in life. By doing at least a bit every day, it's easier to have consistency.
+
+### Day 5: June 22, 2024 
+
+**Today's Progress**: Today I've been focusing on learning *Command Line Basics*. 
+
+
+**Thoughts**: It's not difficult but takes a lot of patience to follow the content and practice it step by step. In some ways, it's boring, learning the vocabulary of using the terminals, but it's a must if I want to go about learning programming. 
+
+It's hard for me to follow the long artcle though... It can get boring real quick... 
+
+
+
+
