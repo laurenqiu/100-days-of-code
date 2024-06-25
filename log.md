@@ -49,5 +49,5 @@ It's hard for me to follow the long artcle though... It can get boring real quic
 
 **Today's Progress**: Today I've been focusing on learning *Command Line Basics*, focusing on the final part of it. 
 
-**Thoughts**: Haven't finished reading it due to limited energy. But I manage to give it a good start today after several days of not being productive. I think I will get better at both English and programming it day by day. 
+**Thoughts**: Haven't finished reading it due to limited energy. But I manage to give it a good start today after several days of not being productive. I think I can get better at both English and programming it day by day as long as I'm consistent in improving both of them. 
 
