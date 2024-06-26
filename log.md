@@ -51,3 +51,11 @@ It's hard for me to follow the long artcle though... It can get boring real quic
 
 **Thoughts**: Haven't finished reading it due to limited energy. But I manage to give it a good start today after several days of not being productive. I think I can get better at both English and programming day by day as long as I'm consistent in improving both of them. 
 
+
+### Day 7: June 26, 2024 
+
+**Today's Progress and Thoughts**: Today I have a better state to focus on the task at hand. I have been intensively studing the final part of *Command Line Basics*, picking up those that I've not been able to pick up yesterday. I feel great because I can finally get through this part; with a little bit more effort tomorrow to complete what's left with this whole section, I can get into the next phase of study. 
+
+The *Command Line Basics* have always been a daunting task for me. I've tried various sources previously with no avail. Finally at this phase of my life I make some progress with it. At least I've followed through the majority of the material and is able to expriment with those commands, its variation and different usages. 
+
+
