@@ -59,3 +59,16 @@ It's hard for me to follow the long artcle though... It can get boring real quic
 The *Command Line Basics* have always been a daunting task for me. I've tried various sources previously with no avail. Finally at this phase of my life I make some progress with it. At least I've followed through the majority of the material and is able to expriment with those commands, its variation and different usages. 
 
 
+### Day 8: June 28, 2024 
+
+**Today's Progress**: (1) Review Git basics and read through all the recommended materials; (2) Going through the Git setup process again by following the standard procecss on my terminal, just in case I may have miss some steps or set up inproperly when I last set up Git on my PC; (3) Create repositories and edit them following the recommended process. 
+
+**Thoughts**: Now I know I can type **`code .`** in the terminal to open the current working directory in VSCode, instead of going to the VSCode and then open the folder I need to work on through GUI. This just saves a lot of time and is more fun to work with. 
+
+But learning the common commands for terminal and setting up Git is still one of the most daunting things I can think of when learning programming, because it requires a lot of patience. Although I have learned about some of these before, I still stick to the tutorials just in case I get something missed in my previous studies. 
+
+It turns out I have learnt a lot through this process. I have not only pick up the concepts I had forgotten but also learned new ones that I hadn't been exposed to before. Hard work paid off, although it is not easy to get through all of this all at once. 
+
+Anyway, I have gotten through this and can finally jump into the actual programming languages in my next step.  
+
+
