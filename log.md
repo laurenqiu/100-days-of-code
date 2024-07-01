@@ -71,4 +71,9 @@ It turns out I have learnt a lot through this process. I have not only pick up t
 
 Anyway, I have gotten through this and can finally jump into the actual programming languages in my next step.  
 
+### Day 9: July 1, 2024 
 
+**Today's Progress and Thoughts**: 
+For the past three days (as the progress is slow, I would just count it as one day) I did some reading of *Introduction to HTML*, specifically, about what is HTML, can it be counted as a programming language, elements and tags, HTML boilerplate, shortcut of opening the HTML in browser with the `open` command, how to work with HTML text elements, how elements like <strong> and <em> are different from <b> and <i> with semantic emphasis that can aid screen readers and promote accessibility, nesting and indentation, HTML comments and its shortcuts, and the two different kinds of lists. I've also skimmed through the *Links and Images*. I would practice this tomorrow, as during the day I got interrupted by the construction noise in the same building and have to go outside while most of the libraries are closed on Monday, and I also need to attend a virtual lecture on other humanities topics later. 
+
+Strictly speaking, HTML and CSS are not counted as programming language, as they are not used to program any logic, their main function is presenting information. HTML helps us create the structure of a webpage, of how you would like present your information, structurally, in the webpage, and CSS helps to decorate it. Actually I've learned them both before, one year ago. But I think it's necessary to go through them again. Hopefully I can refine or recreate the projects I've created after reviewing the fundamentals.
