@@ -80,6 +80,6 @@ Strictly speaking, HTML and CSS are not counted as programming language, as they
 
 ### Day 10: July 2, 2024 
 
-**Today's Progress**: Follow through the *Links and Images* reading and practice. Realize the importance of adding the `rel` attribute. The `noopener` and `nonreferer` value can help prevent phishing attacks. It's considered good coding practice to add a `rel="noopener noreferrer"` to err on the side of caution although [newer versions of browsers automatically provide that kind of protection if `target = "_blank"` is used](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#security_and_privacy).
+**Today's Progress**: Follow through the *Links and Images* reading and practice. Realize the importance of adding the `rel` attribute. The `noopener` and `nonreferer` value can help prevent phishing attacks. Although [newer versions of browsers automatically provide that kind of protection if `target = "_blank"` is used](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#security_and_privacy), it's considered good coding practice to add a `rel="noopener noreferrer"` to err on the side of caution.
 
 **Thoughts**: I should add log right after completing the tasks at hand. 
