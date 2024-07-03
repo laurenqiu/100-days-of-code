@@ -83,3 +83,13 @@ Strictly speaking, HTML and CSS are not counted as programming language, as they
 **Today's Progress**: Follow through the *Links and Images* reading and practice. Realize the importance of adding the `rel` attribute. The `noopener` and `nonreferer` value can help prevent phishing attacks. Although [newer versions of browsers automatically provide that kind of protection if `target = "_blank"` is used](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#security_and_privacy), it's considered good coding practice to add a `rel="noopener noreferrer"` to err on the side of caution.
 
 **Thoughts**: I should add log right after completing the tasks at hand. 
+
+### Day 11: July 3, 2024 
+
+**Today's Progress**: 1. Complete reading *Commit Messages* and complete the *Recipe project*, a good wrap-up of the HTML basics; it's a sketch for further build up after reviewing other web basics.
+
+**Thoughts**: I guess I need more practice as well as coding experience to implement the good coding practice as mentioned in *Commit message*. For now my git commit message may not need to be that long (as most of my commits are pretty basic for now, I don't need a body paragraph to explain how and why just yet, a subject line would be sufficient for now). 
+
+I can start by sticking to the rules of capitalizing my subject line and using the imperative mood. (I need further reading in [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) to refine my message)
+
+EDIT: I planned to continue with CSS today but then I recieved an offer from the postgraduate school I applied for and need to prepare for Visa application. I think I should just go on with this school as the other school have stated that their review process could take another month. I think I wouldn't wait for that anymore. The pressure caused by uncertainty is just too much. I guess I need some sleep now. Glad that I wrote the log right after I completed the tasks or else I can't recall vividly with my current state.
