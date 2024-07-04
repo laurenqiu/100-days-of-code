@@ -93,3 +93,9 @@ Strictly speaking, HTML and CSS are not counted as programming language, as they
 I can start by sticking to the rules of capitalizing my subject line and using the imperative mood. (I need further reading in [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) to refine my message)
 
 EDIT: I planned to continue with CSS today but then I recieved an offer from the postgraduate school I applied for and need to prepare for Visa application. I think I should just go on with this school as the other school have stated that their review process could take another month. I think I wouldn't wait for that anymore. The pressure caused by uncertainty is just too much. I guess I need some sleep now. Glad that I wrote the log right after I completed the tasks or else I can't recall vividly with my current state.
+
+### Day 12: July 4, 2024 
+
+**Today's Progress**: Completed reading *Intro to CSS* and completed 2 out of 5 excercises; I practice using the principle learned from *Commit Message* by using the subject and body structure for my exercises repo commit. 
+
+**Thoughts**: My programming process slowed down a bit today as I have to prepare for postgraduate studies on the side, visa application, part-time jobs / scholarship opportunities, etc. But I manage to put around 2 hours on the programming studies, I think this is good enough...for now. My sister-in-law forwarded a supermarket position in Germany to me today, and I told her about the news of me having a postgraduate offer (though I guess I need to "run" one more time because of the school's location). She's happy about that. My mum is also more peaceful and less worried now.
