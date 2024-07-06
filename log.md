@@ -99,3 +99,10 @@ EDIT: I planned to continue with CSS today but then I recieved an offer from the
 **Today's Progress**: Completed reading *Intro to CSS* and completed 2 out of 5 excercises; I practiced using the principle learned from *Commit Message* by using the subject and body structure for my exercises repo commit. 
 
 **Thoughts**: My programming process slowed down a bit today as I have to prepare for postgraduate studies on the side, such as visa application, part-time jobs and scholarship opportunities. But I managed to put around 2 hours on the programming studies, I think this is good enough...for now. My sister-in-law forwarded a supermarket position in Germany to me today, and I told her about the news of me having a postgraduate offer (though I guess I need to "run" one more time because of the school's location). She's happy about that. My mum is also more peaceful and less worried now.
+
+
+### Day 13: July 6, 2024 
+
+**Today's Progress**: Completed the remaining three tasks for *Intro to CSS*. 
+
+**Thoughts**: My progress is a little slower now. And I also skipped a day yesterday. I will see how I can improve on that. 
