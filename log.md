@@ -106,3 +106,7 @@ EDIT: I planned to continue with CSS today but then I recieved an offer from the
 **Today's Progress**: Completed the remaining three tasks for *Intro to CSS*. 
 
 **Thoughts**: My progress is a little slower now. And I also skipped a day yesterday. I will see how I can improve on that. 
+
+### Day 14: July 7, 2024 
+
+**Today's Progress**: Completed *The Cascade* reading and the related exercises, which includes a *cascade-fix* exercise and adding style to the HTML recipe project.
