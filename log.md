@@ -110,3 +110,9 @@ EDIT: I planned to continue with CSS today but then I recieved an offer from the
 ### Day 14: July 7, 2024 
 
 **Today's Progress**: Completed *The Cascade* reading and the related exercises, which includes a *cascade-fix* exercise and adding style to the HTML recipe project.
+
+### Day 15: July 8, 2024 
+
+**Today's Progress**: Half way through *Inspecting HTML and CSS* with Chrome Dev Tools.
+
+**Thoughts**: I feel a bit lost since receiving that offer several days ago. But when learning programming and experimenting with it, that kind of feeling just went away. I really like it. 
