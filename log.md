@@ -129,3 +129,9 @@ EDIT: I planned to continue with CSS today but then I recieved an offer from the
 **Today's Progress**: Follow through the *Inspecting HTML and CSS* again, with great attention, especially for the *Viewing and Changing the Dom* part. Also so find the *CSS Overview* feature very helpful. 
 
 **Thoughts**: I really enjoy learning in depth about the web. 
+
+### Day 18: July 12, 2024 
+
+**Today's Progress**: Almost completed the *The Box Model* section with practices, with one reading left. 
+
+**Thoughts on July 17:** I got the offer from my dream school (dream major) 2 days ago not long after the interview in the same day. This is a big encouragement for me and I have been working on the finalization of the application these two days (the reason why it takes two days is that my new passport just arrived today...) I hope that all can go well and maybe I need to pause this project a bit for documents preparation and all those procedures because the school in Europe can be rather slow and I need to be hasty on my part in case of further delay on their part. If this doesn't work out and I can't make it at the designated enrolment date (because unfortunately they will have a full month vacation on August and I may not get the pre-enrolment receipt on time for visa application), I still have another option, at another school, in a completely different place - it's just that it's not the major that I'm very much passionate about but I can have lower living cost there. So everything seems to be back on track now as my anxiety resulted from uncertainty have significantly lowered down.
